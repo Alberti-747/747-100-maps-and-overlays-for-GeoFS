@@ -1,2 +1,2 @@
 # 747 100 maps and overlays for GeoFS
-747-100 maps and overlays
+I put them here since google drive wouldn't work and yeah browse through the folders to find what you need. I have both overlays and maps if needed.
